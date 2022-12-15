@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @SebaOteiza
 - I'm Sebastián Oteiza Hernández, Trainee Fullstack Java based in Valparaíso, Chile.
-- 👀 Currently working autonomously in the Back-end area in Java
+- 👀 Currently working autonomously in the Back-end Java
 - 😍 My preferred languages: Java and Javascript (also HTML and CSS).
 - 🤖 DB: Oracle SQL developer
+- 🤓 I have some experience in Bootstrap frameworks.
 - 📫 Nowadays I’m learning: Java + Spring
 
 - 📫 How to reach me www.linkedin.com/in/sebastiánoteiza
